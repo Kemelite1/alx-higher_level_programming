@@ -1,0 +1,1 @@
+This directory contains tasks on python objects, difference between a class, an object or instance. How python pass variables to functions and how to know if two variable are linked to the same object and variable aliasing and other important conepts.
