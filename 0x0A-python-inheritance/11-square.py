@@ -1,4 +1,11 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
+"""
+a square class that inherits
+from Recctangle
+"""
+
+
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
 
 
