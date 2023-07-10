@@ -1,0 +1,12 @@
+##this directory contains tasks on python-class-inheritance.
+
+|tasks                                                                                |      prototype
+|----------------------------|-------------------------------------------------------------------------
+|Task 0
+|Write a function that returns the list of available attributes and methods of an object | def lookup(obj):
+task 1
+Write a class MyList that inherits from list | def print_sorted(self):
+Task 2
+Write a function that returns True if the object is exactly an instance of the specified class ; otherwise False |def is_same_class(obj, a_class):
+Task 3
+Write a function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False |def is_kind_of_class(obj, a_class):
