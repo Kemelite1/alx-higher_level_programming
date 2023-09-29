@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-import requests
 
 """requests model"""
+import requests
 
 if __name__ == "__main__":
     response = requests.get("https://alx-intranet.hbtn.io/status")
